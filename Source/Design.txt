@@ -1,0 +1,131 @@
+// This application (Mo-View) gets image or live feed from the user and applies different image algorithms for comparison
+// please see the block diagram for better understanding of code organization 
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Input module
+// This module will take user's inputted image and inputted parameters 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// User can selects between offline image mode or live video feed mode
+//---------------------------------------------------------------------------------------------
+// When user selects live video feed mode
+//		Check if a video device is connected
+//		If a video device is connected let user select one
+//			Send live feed to the Image processing module
+//		If a video device is not connected show error message to the user
+//---------------------------------------------------------------------------------------------
+// When user Selects offline image mode
+//		Take user input from input dialog/console and provide path to the Image processing module
+//			Validate user input file
+//			If file exist
+//				If file is in the correct format
+//					Send file to the Image processing module
+//				If file is not in the correct format
+//					Show error message to the user
+//			If file doesn't exist
+//				Show error message to the user
+//---------------------------------------------------------------------------------------------
+// When user enters brightness parameters
+//		If parameters are valid and within a certain range, provide parameters to the Image processing module
+//		If parameters are invalid show error message to the user
+//---------------------------------------------------------------------------------------------
+// When user enters contrast parameters
+//		If parameters are valid and within a certain range, provide parameters to the Image processing module
+//		If parameters are invalid show error message to the user
+//---------------------------------------------------------------------------------------------
+// When user selects to convert image to gray scale 
+//		Send selection to the Image processing module
+//---------------------------------------------------------------------------------------------
+// When user selects the edge detection method 
+//		Provide user selection to the Image processing module
+//
+// 		Canny Edge detection parameters
+//				Validate parameters
+//					If parameters are valid provide parameters to the Image processing module
+//					If parameters are invalid show error message to the user
+//
+// 		Sobel edge detection parameters
+//				Validate parameters
+//					If parameters are valid provide parameters to the Image processing module
+//					If parameters are invalid show error message to the user
+//
+// 		Prewitt edge detection parameters
+//				Validate parameters
+//					If parameters are valid provide parameters to the Image processing module
+//					If parameters are invalid show error message to the user
+//
+// 		Laplacian edge detection parameters
+//				Validate parameters
+//					If parameters are valid provide parameters to the Image processing module
+//					If parameters are invalid show error message to the user
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Image processing module
+// This is the image processing block, input to this block is an image to be processed along with user selected parameters.
+// image would be processed by various algorithms and the output image will be provided to the output block
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// If live video feed was sent by Input module
+//		Capture one frame of the video at a time and process it
+//---------------------------------------------------------------------------------------------
+// Function to perform Laplacian edge detection on an input image
+//	LaplacianEdgeDetector(InputImage, InputParameters...)
+//		process the input image using opencv's Laplacian edge detector applying the parameters chosen by the user
+//      e.g. cv.Laplacian(src, ddepth, other_options...)
+//		return image to the output module
+//---------------------------------------------------------------------------------------------
+// Function to perform Prewitt edge detection on an input image
+// PrewittEdgeDetector(InputImage,Parameter)
+//		Apply parameters sent by Input module to image
+//		e.g. cv.Prewitt( src_gray, grad_y, ddepth...)
+//		Send image to the output module
+//---------------------------------------------------------------------------------------------
+// Function to perform Sobel edge detection on an input image
+// SobelEdgeDetector(InputImage,Parameter)
+//		process the input image using opencv's Sobel edge detector applying the parameters chosen by the user
+//		e.g. cv.Sobel( src_gray, grad_y, ddepth...)
+//		Send image to the output module
+//---------------------------------------------------------------------------------------------
+// Function to perform Canny edge detection on an input image
+// CannyEdgeDetector(InputImage,Parameter)
+//		process the input image using opencv's Canny edge detector applying the parameters chosen by the user
+//      e.g. cv.Canny( detected_edges, detected_edges...)
+//		Send image to the output module
+//---------------------------------------------------------------------------------------------
+// Function to perform contrast adjustment on an input image
+//		Process the input image and apply contrast  
+//		Send output image to output module
+//---------------------------------------------------------------------------------------------
+// Function to perform brightness adjustment on an input image
+//		Process the input image and apply brightness  
+//		Send image to output module
+//---------------------------------------------------------------------------------------------
+// Function to convert input image to gray scale image
+//		convert image to gray scale image
+//		Send image to output module
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Output module
+// This input to this block is a processed image from the image processing block and the result of the processed image is displayed to the user 
+// with this block the result of comparison is provided to the user for analysis
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Display the original image or live video before image was processed in UI
+//---------------------------------------------------------------------------------------------
+// Display image or live video after processing by user selected operation 
+//---------------------------------------------------------------------------------------------
+// Display all the selections made by the user which includes
+//		Selection of Live video or offline image
+//		Selection of the Algorithm 
+//		Configuration of all the algorithms
+//		Brightness and contrast values
+//---------------------------------------------------------------------------------------------
+// Provide button to save output file to png, jpg or bmp format//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Log module
+// This module is for diagnostic purposes, this logs user's activity as well as intermediate results for diagnostics purposes
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Save following levels of log in the file
+//		Error
+//		Warning
+//		Info
