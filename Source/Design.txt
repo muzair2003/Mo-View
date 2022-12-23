@@ -1,6 +1,7 @@
 // This application (Mo-View) gets image or live feed from the user and applies different image algorithms for comparison
 // please see the block diagram for better understanding of code organization 
 //
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Input module
 // This module will take user's inputted image and inputted parameters 
