@@ -1,0 +1,2 @@
+Sun Jan 19 15:25:23 2020 Error: Camera is not available 
+Sun Jan 19 15:25:26 2020 Error: Camera is not available 

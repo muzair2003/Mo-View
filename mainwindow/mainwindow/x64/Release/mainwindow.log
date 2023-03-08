@@ -1,0 +1,18 @@
+﻿  Moc'ing UIController.h...
+  Uic'ing mainwindow.ui...
+  Moc'ing ImageProcessingModule.h...
+  Rcc'ing mainwindow.qrc...
+RCC : warning : No resources in 'C:\Users\muzai\OneDrive - Waterloo Region District School Board\Documents\mainwindow\mainwindow\mainwindow.qrc'.
+  
+  qrc_mainwindow.cpp
+  moc_ImageProcessingModule.cpp
+  moc_UIController.cpp
+  ImageProcessingModule.cpp
+  InputModule.cpp
+  LogModule.cpp
+  main.cpp
+  UIController.cpp
+  OutputModule.cpp
+  Source.cpp
+  Generating Code...
+  mainwindow.vcxproj -> C:\Users\muzai\OneDrive - Waterloo Region District School Board\Documents\mainwindow\x64\Release\mainwindow.exe
