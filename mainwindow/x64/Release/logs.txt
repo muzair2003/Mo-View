@@ -1,0 +1,894 @@
+Sun Jan 19 15:51:12 2020 Info: Camera has been enabled 
+Sun Jan 19 15:53:09 2020 Info: File has been loaded successfully 
+Sun Jan 19 15:53:09 2020 Info: File input mode had been enabled 
+Sun Jan 19 15:53:31 2020 Info: File has been loaded successfully 
+Sun Jan 19 15:53:31 2020 Info: File input mode had been enabled 
+Sun Jan 19 15:53:53 2020 Info: Canny Has been applied
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 1
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 3
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 4
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 6
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 8
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 10
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 11
+Sun Jan 19 15:54:00 2020 Info: Brightness has been set to 13
+Sun Jan 19 15:54:01 2020 Info: Brightness has been set to 15
+Sun Jan 19 15:54:01 2020 Info: Brightness has been set to 16
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 105
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 108
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 110
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 118
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 120
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 125
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 128
+Sun Jan 19 15:54:02 2020 Info: Contrast has been set to 130
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 133
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 140
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 143
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 145
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 150
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 153
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 155
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 160
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 163
+Sun Jan 19 15:54:03 2020 Info: Contrast has been set to 165
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 168
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 165
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 158
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 155
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 145
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 140
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 138
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 130
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 128
+Sun Jan 19 15:54:04 2020 Info: Contrast has been set to 125
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 120
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 115
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 113
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 110
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 108
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 105
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 95
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 93
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 90
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 93
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 98
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 100
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 103
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 105
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 108
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 110
+Sun Jan 19 15:54:05 2020 Info: Contrast has been set to 115
+Sun Jan 19 15:54:06 2020 Info: Contrast has been set to 118
+Sun Jan 19 15:54:06 2020 Info: Contrast has been set to 120
+Sun Jan 19 15:54:06 2020 Info: Contrast has been set to 123
+Sun Jan 19 15:54:10 2020 Info: Laplacian Has been applied
+Sun Jan 19 15:54:15 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 15:54:15 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 15:54:15 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 15:54:16 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 15:54:17 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 15:54:18 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 15:54:19 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 2
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 3
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 4
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 6
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 7
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 8
+Sun Jan 19 15:54:22 2020 Info: Scale value has been changed to 7
+Sun Jan 19 15:54:23 2020 Info: Scale value has been changed to 6
+Sun Jan 19 15:54:23 2020 Info: Scale value has been changed to 5
+Sun Jan 19 15:54:23 2020 Info: Scale value has been changed to 4
+Sun Jan 19 15:54:23 2020 Info: Scale value has been changed to 3
+Sun Jan 19 15:54:23 2020 Info: Scale value has been changed to 2
+Sun Jan 19 15:54:23 2020 Info: Scale value has been changed to 1
+Sun Jan 19 15:54:24 2020 Info: Scale value has been changed to 2
+Sun Jan 19 15:54:24 2020 Info: Scale value has been changed to 3
+Sun Jan 19 15:54:25 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 15:54:38 2020 Info: Choose Has been applied
+Sun Jan 19 15:54:41 2020 Info: Prewitt Has been applied
+Sun Jan 19 15:54:44 2020 Info: Camera has been enabled 
+Sun Jan 19 15:55:06 2020 Info: File has been loaded successfully 
+Sun Jan 19 15:55:06 2020 Info: File input mode had been enabled 
+Sun Jan 19 15:55:54 2020 Info: File has been loaded successfully 
+Sun Jan 19 15:55:54 2020 Info: File input mode had been enabled 
+Sun Jan 19 15:56:03 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 15:56:06 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 15:56:07 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 15:56:10 2020 Info: Brightness has been set to -2
+Sun Jan 19 15:56:10 2020 Info: Brightness has been set to -10
+Sun Jan 19 15:56:10 2020 Info: Brightness has been set to -11
+Sun Jan 19 15:56:18 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to -9
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to -7
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to -6
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to -4
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to -2
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to -1
+Sun Jan 19 15:56:20 2020 Info: Brightness has been set to 1
+Sun Jan 19 15:56:21 2020 Info: Brightness has been set to 5
+Sun Jan 19 15:56:21 2020 Info: Brightness has been set to 14
+Sun Jan 19 15:56:21 2020 Info: Brightness has been set to 20
+Sun Jan 19 15:56:21 2020 Info: Brightness has been set to 24
+Sun Jan 19 15:56:25 2020 Info: Contrast has been set to 95
+Sun Jan 19 15:56:25 2020 Info: Contrast has been set to 103
+Sun Jan 19 15:56:25 2020 Info: Contrast has been set to 115
+Sun Jan 19 15:56:26 2020 Info: Contrast has been set to 123
+Sun Jan 19 15:56:26 2020 Info: Contrast has been set to 140
+Sun Jan 19 15:56:26 2020 Info: Contrast has been set to 145
+Sun Jan 19 15:56:26 2020 Info: Contrast has been set to 148
+Sun Jan 19 15:56:26 2020 Info: Contrast has been set to 150
+Sun Jan 19 15:56:32 2020 Info: Laplacian Has been applied
+Sun Jan 19 15:56:35 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 15:56:36 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 15:56:36 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 15:56:38 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 15:58:00 2020 Info: File has been loaded successfully 
+Sun Jan 19 15:58:00 2020 Info: File input mode had been enabled 
+Sun Jan 19 15:58:04 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 15:58:05 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 15:58:08 2020 Info: Choose Has been applied
+Sun Jan 19 15:58:09 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 15:58:27 2020 Info: Contrast has been set to 103
+Sun Jan 19 15:58:28 2020 Info: Contrast has been set to 95
+Sun Jan 19 15:58:28 2020 Info: Contrast has been set to 83
+Sun Jan 19 15:58:28 2020 Info: Contrast has been set to 75
+Sun Jan 19 15:58:28 2020 Info: Contrast has been set to 68
+Sun Jan 19 15:58:51 2020 Info: Prewitt Has been applied
+Sun Jan 19 15:58:54 2020 Info: Canny Has been applied
+Sun Jan 19 15:58:58 2020 Info: Sobel Has been applied
+Sun Jan 19 15:59:02 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 15:59:03 2020 Info: Kernel value has been changed to 3
+Sun Jan 19 15:59:10 2020 Info: Canny Has been applied
+Sun Jan 19 15:59:13 2020 Info: Canny Maximum has been set to 201
+Sun Jan 19 15:59:13 2020 Info: Canny Maximum has been set to 205
+Sun Jan 19 15:59:14 2020 Info: Canny Maximum has been set to 204
+Sun Jan 19 15:59:14 2020 Info: Canny Maximum has been set to 200
+Sun Jan 19 15:59:15 2020 Info: Canny Maximum has been set to 199
+Sun Jan 19 15:59:15 2020 Info: Canny Maximum has been set to 194
+Sun Jan 19 15:59:17 2020 Info: Canny Minimum has been set to 99
+Sun Jan 19 15:59:17 2020 Info: Canny Minimum has been set to 94
+Sun Jan 19 15:59:17 2020 Info: Canny Minimum has been set to 88
+Sun Jan 19 15:59:18 2020 Info: Canny Minimum has been set to 87
+Sun Jan 19 15:59:18 2020 Info: Canny Minimum has been set to 81
+Sun Jan 19 15:59:18 2020 Info: Canny Minimum has been set to 80
+Sun Jan 19 15:59:18 2020 Info: Canny Minimum has been set to 74
+Sun Jan 19 15:59:18 2020 Info: Canny Minimum has been set to 72
+Sun Jan 19 15:59:19 2020 Info: Canny Minimum has been set to 68
+Sun Jan 19 15:59:19 2020 Info: Canny Minimum has been set to 66
+Sun Jan 19 15:59:19 2020 Info: Canny Minimum has been set to 63
+Sun Jan 19 15:59:19 2020 Info: Canny Minimum has been set to 62
+Sun Jan 19 15:59:19 2020 Info: Canny Minimum has been set to 57
+Sun Jan 19 15:59:20 2020 Info: Canny Minimum has been set to 51
+Sun Jan 19 15:59:20 2020 Info: Canny Minimum has been set to 50
+Sun Jan 19 15:59:20 2020 Info: Canny Minimum has been set to 45
+Sun Jan 19 15:59:20 2020 Info: Canny Minimum has been set to 43
+Sun Jan 19 15:59:21 2020 Info: Canny Minimum has been set to 37
+Sun Jan 19 15:59:21 2020 Info: Canny Maximum has been set to 193
+Sun Jan 19 15:59:21 2020 Info: Canny Maximum has been set to 188
+Sun Jan 19 15:59:21 2020 Info: Canny Maximum has been set to 187
+Sun Jan 19 15:59:22 2020 Info: Canny Maximum has been set to 183
+Sun Jan 19 15:59:22 2020 Info: Canny Maximum has been set to 182
+Sun Jan 19 15:59:22 2020 Info: Canny Maximum has been set to 178
+Sun Jan 19 15:59:22 2020 Info: Canny Maximum has been set to 177
+Sun Jan 19 15:59:23 2020 Info: Canny Maximum has been set to 171
+Sun Jan 19 15:59:23 2020 Info: Canny Maximum has been set to 168
+Sun Jan 19 15:59:23 2020 Info: Canny Maximum has been set to 164
+Sun Jan 19 15:59:23 2020 Info: Canny Maximum has been set to 157
+Sun Jan 19 15:59:24 2020 Info: Canny Maximum has been set to 150
+Sun Jan 19 15:59:24 2020 Info: Canny Maximum has been set to 149
+Sun Jan 19 15:59:24 2020 Info: Canny Maximum has been set to 143
+Sun Jan 19 15:59:24 2020 Info: Canny Maximum has been set to 137
+Sun Jan 19 15:59:25 2020 Info: Canny Maximum has been set to 130
+Sun Jan 19 15:59:25 2020 Info: Canny Maximum has been set to 126
+Sun Jan 19 15:59:25 2020 Info: Canny Maximum has been set to 124
+Sun Jan 19 15:59:25 2020 Info: Canny Maximum has been set to 123
+Sun Jan 19 15:59:26 2020 Info: Canny Maximum has been set to 117
+Sun Jan 19 15:59:26 2020 Info: Canny Maximum has been set to 111
+Sun Jan 19 15:59:26 2020 Info: Canny Maximum has been set to 105
+Sun Jan 19 15:59:27 2020 Info: Canny Maximum has been set to 104
+Sun Jan 19 15:59:27 2020 Info: Canny Maximum has been set to 103
+Sun Jan 19 15:59:28 2020 Info: Canny Maximum has been set to 102
+Sun Jan 19 15:59:28 2020 Info: Canny Maximum has been set to 101
+Sun Jan 19 15:59:28 2020 Info: Canny Maximum has been set to 100
+Sun Jan 19 15:59:29 2020 Info: Canny Maximum has been set to 99
+Sun Jan 19 15:59:29 2020 Info: Canny Maximum has been set to 98
+Sun Jan 19 15:59:29 2020 Info: Canny Maximum has been set to 97
+Sun Jan 19 15:59:30 2020 Info: Canny Maximum has been set to 96
+Sun Jan 19 15:59:30 2020 Info: Canny Maximum has been set to 95
+Sun Jan 19 15:59:30 2020 Info: Canny Maximum has been set to 94
+Sun Jan 19 15:59:31 2020 Info: Canny Maximum has been set to 93
+Sun Jan 19 15:59:31 2020 Info: Canny Maximum has been set to 92
+Sun Jan 19 15:59:31 2020 Info: Canny Maximum has been set to 91
+Sun Jan 19 15:59:31 2020 Info: Canny Maximum has been set to 90
+Sun Jan 19 15:59:32 2020 Info: Canny Maximum has been set to 89
+Sun Jan 19 15:59:32 2020 Info: Canny Maximum has been set to 88
+Sun Jan 19 15:59:32 2020 Info: Canny Maximum has been set to 87
+Sun Jan 19 15:59:33 2020 Info: Canny Maximum has been set to 86
+Sun Jan 19 15:59:33 2020 Info: Canny Maximum has been set to 85
+Sun Jan 19 15:59:33 2020 Info: Canny Maximum has been set to 84
+Sun Jan 19 15:59:34 2020 Info: Canny Maximum has been set to 83
+Sun Jan 19 15:59:35 2020 Info: Canny Maximum has been set to 82
+Sun Jan 19 15:59:35 2020 Info: Canny Maximum has been set to 74
+Sun Jan 19 15:59:36 2020 Info: Prewitt Has been applied
+Sun Jan 19 15:59:40 2020 Info: Canny Has been applied
+Sun Jan 19 15:59:42 2020 Info: Canny Maximum has been set to 73
+Sun Jan 19 15:59:43 2020 Info: Canny Maximum has been set to 67
+Sun Jan 19 15:59:43 2020 Info: Canny Maximum has been set to 65
+Sun Jan 19 15:59:43 2020 Info: Canny Maximum has been set to 61
+Sun Jan 19 15:59:43 2020 Info: Canny Maximum has been set to 60
+Sun Jan 19 15:59:44 2020 Info: Canny Maximum has been set to 57
+Sun Jan 19 15:59:44 2020 Info: Canny Maximum has been set to 56
+Sun Jan 19 15:59:44 2020 Info: Canny Maximum has been set to 53
+Sun Jan 19 15:59:44 2020 Info: Canny Maximum has been set to 47
+Sun Jan 19 15:59:45 2020 Info: Canny Maximum has been set to 46
+Sun Jan 19 15:59:45 2020 Info: Canny Maximum has been set to 42
+Sun Jan 19 15:59:45 2020 Info: Canny Maximum has been set to 36
+Sun Jan 19 15:59:45 2020 Info: Canny Maximum has been set to 35
+Sun Jan 19 15:59:45 2020 Info: Canny Maximum has been set to 30
+Sun Jan 19 15:59:46 2020 Info: Canny Maximum has been set to 23
+Sun Jan 19 15:59:46 2020 Info: Canny Maximum has been set to 19
+Sun Jan 19 15:59:46 2020 Info: Canny Maximum has been set to 15
+Sun Jan 19 15:59:46 2020 Info: Canny Maximum has been set to 9
+Sun Jan 19 15:59:47 2020 Info: Canny Maximum has been set to 2
+Sun Jan 19 15:59:47 2020 Info: Canny Maximum has been set to 0
+Sun Jan 19 15:59:50 2020 Info: Canny Minimum has been set to 36
+Sun Jan 19 15:59:50 2020 Info: Canny Minimum has been set to 32
+Sun Jan 19 15:59:51 2020 Info: Canny Minimum has been set to 31
+Sun Jan 19 15:59:52 2020 Info: Canny Minimum has been set to 28
+Sun Jan 19 15:59:53 2020 Info: Canny Minimum has been set to 27
+Sun Jan 19 15:59:53 2020 Info: Canny Minimum has been set to 21
+Sun Jan 19 15:59:54 2020 Info: Canny Minimum has been set to 20
+Sun Jan 19 15:59:54 2020 Info: Canny Minimum has been set to 16
+Sun Jan 19 15:59:55 2020 Info: Canny Minimum has been set to 15
+Sun Jan 19 15:59:55 2020 Info: Canny Minimum has been set to 9
+Sun Jan 19 15:59:55 2020 Info: Canny Minimum has been set to 2
+Sun Jan 19 15:59:56 2020 Info: Canny Minimum has been set to 0
+Sun Jan 19 16:00:00 2020 Info: Canny Maximum has been set to 1
+Sun Jan 19 16:00:01 2020 Info: Canny Maximum has been set to 2
+Sun Jan 19 16:00:01 2020 Info: Canny Maximum has been set to 4
+Sun Jan 19 16:00:01 2020 Info: Canny Maximum has been set to 9
+Sun Jan 19 16:00:02 2020 Info: Canny Maximum has been set to 13
+Sun Jan 19 16:00:07 2020 Info: Canny Maximum has been set to 14
+Sun Jan 19 16:00:08 2020 Info: Canny Maximum has been set to 17
+Sun Jan 19 16:00:08 2020 Info: Canny Maximum has been set to 21
+Sun Jan 19 16:00:08 2020 Info: Canny Maximum has been set to 24
+Sun Jan 19 16:00:09 2020 Info: Canny Maximum has been set to 29
+Sun Jan 19 16:00:09 2020 Info: Canny Maximum has been set to 34
+Sun Jan 19 16:00:10 2020 Info: Canny Maximum has been set to 35
+Sun Jan 19 16:00:30 2020 Info: File has been saved
+Sun Jan 19 16:01:24 2020 Info: Sobel Has been applied
+Sun Jan 19 16:01:29 2020 Info: Laplacian Has been applied
+Sun Jan 19 16:01:32 2020 Info: Canny Has been applied
+Sun Jan 19 16:01:36 2020 Info: Prewitt Has been applied
+Sun Jan 19 16:01:42 2020 Info: Delta value has been changed to 1
+Sun Jan 19 16:01:42 2020 Info: Delta value has been changed to 7
+Sun Jan 19 16:01:42 2020 Info: Delta value has been changed to 6
+Sun Jan 19 16:01:43 2020 Info: Delta value has been changed to 0
+Sun Jan 19 16:01:44 2020 Info: Delta value has been changed to 1
+Sun Jan 19 16:01:44 2020 Info: Delta value has been changed to 5
+Sun Jan 19 16:01:45 2020 Info: Delta value has been changed to 6
+Sun Jan 19 16:01:45 2020 Info: Delta value has been changed to 9
+Sun Jan 19 16:01:45 2020 Info: Delta value has been changed to 11
+Sun Jan 19 16:01:45 2020 Info: Delta value has been changed to 13
+Sun Jan 19 16:01:46 2020 Info: Delta value has been changed to 18
+Sun Jan 19 16:01:46 2020 Info: Delta value has been changed to 19
+Sun Jan 19 16:01:46 2020 Info: Delta value has been changed to 22
+Sun Jan 19 16:01:46 2020 Info: Delta value has been changed to 26
+Sun Jan 19 16:01:46 2020 Info: Delta value has been changed to 29
+Sun Jan 19 16:01:47 2020 Info: Delta value has been changed to 30
+Sun Jan 19 16:01:47 2020 Info: Delta value has been changed to 33
+Sun Jan 19 16:01:47 2020 Info: Delta value has been changed to 36
+Sun Jan 19 16:01:47 2020 Info: Delta value has been changed to 39
+Sun Jan 19 16:01:48 2020 Info: Delta value has been changed to 40
+Sun Jan 19 16:15:33 2020 Info: Camera has been enabled 
+Sun Jan 19 16:15:50 2020 Info: Camera has been enabled 
+Sun Jan 19 16:16:04 2020 Info: Camera has been enabled 
+Sun Jan 19 16:16:07 2020 Info: Camera has been enabled 
+Sun Jan 19 16:16:39 2020 Info: Camera has been enabled 
+Sun Jan 19 16:16:45 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:16:46 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 103
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 105
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 110
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 113
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 118
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 120
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 123
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 125
+Sun Jan 19 16:16:51 2020 Info: Contrast has been set to 128
+Sun Jan 19 16:16:52 2020 Info: Contrast has been set to 130
+Sun Jan 19 16:21:01 2020 Info: Camera has been enabled 
+Sun Jan 19 16:22:59 2020 Error: Camera is not available 
+Sun Jan 19 16:23:16 2020 Error: Camera is not available 
+Sun Jan 19 16:23:30 2020 Error: Camera is not available 
+Sun Jan 19 16:30:34 2020 Error: Camera is not available 
+Sun Jan 19 16:30:46 2020 Error: Camera is not available 
+Sun Jan 19 16:30:50 2020 Error: Camera is not available 
+Sun Jan 19 16:30:55 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:30:55 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:31:04 2020 Error: Camera is not available 
+Sun Jan 19 16:31:12 2020 Error: Camera is not available 
+Sun Jan 19 16:31:22 2020 Error: Camera is not available 
+Sun Jan 19 16:32:10 2020 Error: Camera is not available 
+Sun Jan 19 16:32:47 2020 Error: Camera is not available 
+Sun Jan 19 16:33:33 2020 Error: Camera is not available 
+Sun Jan 19 16:34:25 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:34:25 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:34:30 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:34:30 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:35:29 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:35:29 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:35:34 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:35:34 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:36:50 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:36:50 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:36:54 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:36:54 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:36:59 2020 Info: Laplacian Has been applied
+Sun Jan 19 16:37:05 2020 Info: Scale value has been changed to 2
+Sun Jan 19 16:37:06 2020 Info: Scale value has been changed to 7
+Sun Jan 19 16:37:06 2020 Info: Scale value has been changed to 8
+Sun Jan 19 16:37:06 2020 Info: Scale value has been changed to 10
+Sun Jan 19 16:37:06 2020 Info: Scale value has been changed to 11
+Sun Jan 19 16:37:06 2020 Info: Scale value has been changed to 14
+Sun Jan 19 16:37:06 2020 Info: Scale value has been changed to 15
+Sun Jan 19 16:37:07 2020 Info: Scale value has been changed to 19
+Sun Jan 19 16:37:07 2020 Info: Scale value has been changed to 20
+Sun Jan 19 16:37:07 2020 Info: Scale value has been changed to 22
+Sun Jan 19 16:37:11 2020 Info: Delta value has been changed to 1
+Sun Jan 19 16:37:11 2020 Info: Delta value has been changed to 5
+Sun Jan 19 16:37:12 2020 Info: Delta value has been changed to 6
+Sun Jan 19 16:37:12 2020 Info: Delta value has been changed to 8
+Sun Jan 19 16:37:12 2020 Info: Delta value has been changed to 9
+Sun Jan 19 16:37:12 2020 Info: Delta value has been changed to 11
+Sun Jan 19 16:37:12 2020 Info: Delta value has been changed to 12
+Sun Jan 19 16:37:12 2020 Info: Delta value has been changed to 15
+Sun Jan 19 16:37:14 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 16:37:14 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 16:37:15 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 16:37:15 2020 Info: Kernel value has been changed to 11
+Sun Jan 19 16:37:15 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 16:37:15 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 16:37:16 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 16:37:16 2020 Info: Kernel value has been changed to 3
+Sun Jan 19 16:37:18 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 16:37:18 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 16:37:18 2020 Info: Kernel value has been changed to 11
+Sun Jan 19 16:37:19 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 16:37:20 2020 Info: Kernel value has been changed to 3
+Sun Jan 19 16:37:21 2020 Info: Kernel value has been changed to 5
+Sun Jan 19 16:37:21 2020 Info: Kernel value has been changed to 9
+Sun Jan 19 16:37:25 2020 Info: Canny Has been applied
+Sun Jan 19 16:37:27 2020 Info: Canny Maximum has been set to 201
+Sun Jan 19 16:37:27 2020 Info: Canny Maximum has been set to 203
+Sun Jan 19 16:37:27 2020 Info: Canny Maximum has been set to 204
+Sun Jan 19 16:37:27 2020 Info: Canny Maximum has been set to 207
+Sun Jan 19 16:37:28 2020 Info: Canny Maximum has been set to 208
+Sun Jan 19 16:37:28 2020 Info: Canny Maximum has been set to 212
+Sun Jan 19 16:37:28 2020 Info: Canny Maximum has been set to 213
+Sun Jan 19 16:37:28 2020 Info: Canny Maximum has been set to 216
+Sun Jan 19 16:37:29 2020 Info: Canny Maximum has been set to 217
+Sun Jan 19 16:37:29 2020 Info: Canny Maximum has been set to 219
+Sun Jan 19 16:37:29 2020 Info: Canny Maximum has been set to 218
+Sun Jan 19 16:37:29 2020 Info: Canny Maximum has been set to 217
+Sun Jan 19 16:37:29 2020 Info: Canny Maximum has been set to 216
+Sun Jan 19 16:37:30 2020 Info: Canny Maximum has been set to 215
+Sun Jan 19 16:37:30 2020 Info: Canny Maximum has been set to 210
+Sun Jan 19 16:37:30 2020 Info: Canny Maximum has been set to 209
+Sun Jan 19 16:37:30 2020 Info: Canny Maximum has been set to 206
+Sun Jan 19 16:37:30 2020 Info: Canny Maximum has been set to 201
+Sun Jan 19 16:37:30 2020 Info: Canny Maximum has been set to 199
+Sun Jan 19 16:37:31 2020 Info: Canny Maximum has been set to 196
+Sun Jan 19 16:37:31 2020 Info: Canny Maximum has been set to 194
+Sun Jan 19 16:37:31 2020 Info: Canny Maximum has been set to 187
+Sun Jan 19 16:37:32 2020 Info: Canny Minimum has been set to 99
+Sun Jan 19 16:37:32 2020 Info: Canny Minimum has been set to 98
+Sun Jan 19 16:37:32 2020 Info: Canny Minimum has been set to 91
+Sun Jan 19 16:37:32 2020 Info: Canny Minimum has been set to 90
+Sun Jan 19 16:37:32 2020 Info: Canny Minimum has been set to 89
+Sun Jan 19 16:37:33 2020 Info: Canny Maximum has been set to 186
+Sun Jan 19 16:37:33 2020 Info: Canny Maximum has been set to 181
+Sun Jan 19 16:37:33 2020 Info: Canny Maximum has been set to 180
+Sun Jan 19 16:37:34 2020 Info: Canny Maximum has been set to 174
+Sun Jan 19 16:37:34 2020 Info: Canny Maximum has been set to 173
+Sun Jan 19 16:37:34 2020 Info: Canny Maximum has been set to 168
+Sun Jan 19 16:37:34 2020 Info: Canny Maximum has been set to 164
+Sun Jan 19 16:37:34 2020 Info: Canny Maximum has been set to 162
+Sun Jan 19 16:37:34 2020 Info: Canny Maximum has been set to 161
+Sun Jan 19 16:37:35 2020 Info: Canny Maximum has been set to 156
+Sun Jan 19 16:37:35 2020 Info: Canny Maximum has been set to 154
+Sun Jan 19 16:37:35 2020 Info: Canny Maximum has been set to 151
+Sun Jan 19 16:37:35 2020 Info: Canny Maximum has been set to 150
+Sun Jan 19 16:37:35 2020 Info: Canny Maximum has been set to 146
+Sun Jan 19 16:37:35 2020 Info: Canny Maximum has been set to 144
+Sun Jan 19 16:37:36 2020 Info: Canny Maximum has been set to 140
+Sun Jan 19 16:37:36 2020 Info: Canny Minimum has been set to 88
+Sun Jan 19 16:37:36 2020 Info: Canny Minimum has been set to 84
+Sun Jan 19 16:37:37 2020 Info: Canny Minimum has been set to 83
+Sun Jan 19 16:37:37 2020 Info: Canny Minimum has been set to 78
+Sun Jan 19 16:37:37 2020 Info: Canny Minimum has been set to 77
+Sun Jan 19 16:37:37 2020 Info: Canny Minimum has been set to 74
+Sun Jan 19 16:37:37 2020 Info: Canny Minimum has been set to 73
+Sun Jan 19 16:37:37 2020 Info: Canny Minimum has been set to 68
+Sun Jan 19 16:37:38 2020 Info: Canny Minimum has been set to 67
+Sun Jan 19 16:37:38 2020 Info: Canny Minimum has been set to 62
+Sun Jan 19 16:37:38 2020 Info: Canny Minimum has been set to 61
+Sun Jan 19 16:37:38 2020 Info: Canny Minimum has been set to 57
+Sun Jan 19 16:37:38 2020 Info: Canny Minimum has been set to 56
+Sun Jan 19 16:37:38 2020 Info: Canny Minimum has been set to 50
+Sun Jan 19 16:37:39 2020 Info: Canny Minimum has been set to 49
+Sun Jan 19 16:37:39 2020 Info: Canny Minimum has been set to 43
+Sun Jan 19 16:37:39 2020 Info: Canny Minimum has been set to 42
+Sun Jan 19 16:37:39 2020 Info: Canny Minimum has been set to 37
+Sun Jan 19 16:37:39 2020 Info: Canny Minimum has been set to 36
+Sun Jan 19 16:37:39 2020 Info: Canny Minimum has been set to 30
+Sun Jan 19 16:37:40 2020 Info: Canny Minimum has been set to 29
+Sun Jan 19 16:37:41 2020 Info: Canny Minimum has been set to 24
+Sun Jan 19 16:37:41 2020 Info: Canny Minimum has been set to 23
+Sun Jan 19 16:37:41 2020 Info: Canny Minimum has been set to 17
+Sun Jan 19 16:37:41 2020 Info: Canny Minimum has been set to 16
+Sun Jan 19 16:37:41 2020 Info: Canny Minimum has been set to 12
+Sun Jan 19 16:37:43 2020 Info: Canny Maximum has been set to 139
+Sun Jan 19 16:37:43 2020 Info: Canny Maximum has been set to 136
+Sun Jan 19 16:37:43 2020 Info: Canny Maximum has been set to 135
+Sun Jan 19 16:37:43 2020 Info: Canny Maximum has been set to 131
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 130
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 123
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 122
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 116
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 115
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 112
+Sun Jan 19 16:37:44 2020 Info: Canny Maximum has been set to 111
+Sun Jan 19 16:37:45 2020 Info: Canny Maximum has been set to 104
+Sun Jan 19 16:37:45 2020 Info: Canny Maximum has been set to 103
+Sun Jan 19 16:37:45 2020 Info: Canny Maximum has been set to 99
+Sun Jan 19 16:37:45 2020 Info: Canny Maximum has been set to 98
+Sun Jan 19 16:37:45 2020 Info: Canny Maximum has been set to 93
+Sun Jan 19 16:37:45 2020 Info: Canny Maximum has been set to 92
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 85
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 84
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 79
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 78
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 72
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 70
+Sun Jan 19 16:37:46 2020 Info: Canny Maximum has been set to 66
+Sun Jan 19 16:37:47 2020 Info: Canny Maximum has been set to 65
+Sun Jan 19 16:37:47 2020 Info: Canny Maximum has been set to 57
+Sun Jan 19 16:37:47 2020 Info: Canny Maximum has been set to 56
+Sun Jan 19 16:37:47 2020 Info: Canny Maximum has been set to 50
+Sun Jan 19 16:37:48 2020 Info: Canny Maximum has been set to 49
+Sun Jan 19 16:37:48 2020 Info: Canny Maximum has been set to 44
+Sun Jan 19 16:37:49 2020 Info: Canny Maximum has been set to 43
+Sun Jan 19 16:37:49 2020 Info: Canny Maximum has been set to 37
+Sun Jan 19 16:37:50 2020 Info: Canny Maximum has been set to 36
+Sun Jan 19 16:37:50 2020 Info: Canny Maximum has been set to 32
+Sun Jan 19 16:37:51 2020 Info: Canny Maximum has been set to 31
+Sun Jan 19 16:37:51 2020 Info: Canny Maximum has been set to 26
+Sun Jan 19 16:37:53 2020 Info: Canny Maximum has been set to 25
+Sun Jan 19 16:37:53 2020 Info: Canny Maximum has been set to 24
+Sun Jan 19 16:37:55 2020 Info: Canny Maximum has been set to 23
+Sun Jan 19 16:37:55 2020 Info: Canny Maximum has been set to 22
+Sun Jan 19 16:37:55 2020 Info: Canny Maximum has been set to 21
+Sun Jan 19 16:38:00 2020 Info: Canny Maximum has been set to 22
+Sun Jan 19 16:38:00 2020 Info: Canny Maximum has been set to 23
+Sun Jan 19 16:38:05 2020 Info: Sobel Has been applied
+Sun Jan 19 16:38:09 2020 Info: Kernel value has been changed to 7
+Sun Jan 19 16:38:10 2020 Info: Kernel value has been changed to 3
+Sun Jan 19 16:38:14 2020 Info: Scale value has been changed to 21
+Sun Jan 19 16:38:14 2020 Info: Scale value has been changed to 20
+Sun Jan 19 16:38:15 2020 Info: Scale value has been changed to 13
+Sun Jan 19 16:38:15 2020 Info: Scale value has been changed to 14
+Sun Jan 19 16:38:16 2020 Info: Scale value has been changed to 16
+Sun Jan 19 16:38:16 2020 Info: Scale value has been changed to 17
+Sun Jan 19 16:38:16 2020 Info: Scale value has been changed to 19
+Sun Jan 19 16:38:16 2020 Info: Scale value has been changed to 22
+Sun Jan 19 16:38:17 2020 Info: Scale value has been changed to 25
+Sun Jan 19 16:38:17 2020 Info: Scale value has been changed to 29
+Sun Jan 19 16:38:17 2020 Info: Scale value has been changed to 33
+Sun Jan 19 16:38:18 2020 Info: Scale value has been changed to 36
+Sun Jan 19 16:38:18 2020 Info: Scale value has been changed to 40
+Sun Jan 19 16:38:18 2020 Info: Scale value has been changed to 44
+Sun Jan 19 16:38:19 2020 Info: Scale value has been changed to 50
+Sun Jan 19 16:38:19 2020 Info: Scale value has been changed to 51
+Sun Jan 19 16:38:21 2020 Info: Delta value has been changed to 16
+Sun Jan 19 16:38:21 2020 Info: Delta value has been changed to 20
+Sun Jan 19 16:38:21 2020 Info: Delta value has been changed to 21
+Sun Jan 19 16:38:22 2020 Info: Delta value has been changed to 25
+Sun Jan 19 16:38:22 2020 Info: Delta value has been changed to 30
+Sun Jan 19 16:38:23 2020 Info: Delta value has been changed to 31
+Sun Jan 19 16:38:23 2020 Info: Delta value has been changed to 33
+Sun Jan 19 16:38:24 2020 Info: Scale value has been changed to 50
+Sun Jan 19 16:38:25 2020 Info: Scale value has been changed to 44
+Sun Jan 19 16:38:25 2020 Info: Scale value has been changed to 40
+Sun Jan 19 16:38:25 2020 Info: Scale value has been changed to 34
+Sun Jan 19 16:38:26 2020 Info: Scale value has been changed to 29
+Sun Jan 19 16:38:26 2020 Info: Scale value has been changed to 21
+Sun Jan 19 16:38:26 2020 Info: Scale value has been changed to 15
+Sun Jan 19 16:38:27 2020 Info: Scale value has been changed to 9
+Sun Jan 19 16:38:27 2020 Info: Scale value has been changed to 3
+Sun Jan 19 16:38:27 2020 Info: Scale value has been changed to 1
+Sun Jan 19 16:38:29 2020 Info: Scale value has been changed to 2
+Sun Jan 19 16:38:29 2020 Info: Scale value has been changed to 3
+Sun Jan 19 16:38:30 2020 Info: Scale value has been changed to 4
+Sun Jan 19 16:38:30 2020 Info: Scale value has been changed to 5
+Sun Jan 19 16:38:33 2020 Info: Laplacian Has been applied
+Sun Jan 19 16:38:38 2020 Info: Prewitt Has been applied
+Sun Jan 19 16:38:40 2020 Info: Delta value has been changed to 34
+Sun Jan 19 16:38:40 2020 Info: Delta value has been changed to 37
+Sun Jan 19 16:38:40 2020 Info: Delta value has been changed to 38
+Sun Jan 19 16:38:40 2020 Info: Delta value has been changed to 42
+Sun Jan 19 16:38:41 2020 Info: Delta value has been changed to 43
+Sun Jan 19 16:38:41 2020 Info: Delta value has been changed to 46
+Sun Jan 19 16:38:41 2020 Info: Delta value has been changed to 47
+Sun Jan 19 16:38:41 2020 Info: Delta value has been changed to 49
+Sun Jan 19 16:38:42 2020 Info: Delta value has been changed to 50
+Sun Jan 19 16:38:42 2020 Info: Delta value has been changed to 51
+Sun Jan 19 16:38:42 2020 Info: Delta value has been changed to 54
+Sun Jan 19 16:38:45 2020 Info: Delta value has been changed to 53
+Sun Jan 19 16:38:45 2020 Info: Delta value has been changed to 51
+Sun Jan 19 16:38:46 2020 Info: Delta value has been changed to 50
+Sun Jan 19 16:38:46 2020 Info: Delta value has been changed to 45
+Sun Jan 19 16:38:47 2020 Info: Delta value has been changed to 44
+Sun Jan 19 16:38:47 2020 Info: Delta value has been changed to 39
+Sun Jan 19 16:38:50 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:38:53 2020 Info: Sobel Has been applied
+Sun Jan 19 16:38:58 2020 Info: Canny Has been applied
+Sun Jan 19 16:39:01 2020 Info: Prewitt Has been applied
+Sun Jan 19 16:39:05 2020 Info: Laplacian Has been applied
+Sun Jan 19 16:39:08 2020 Info: Canny Has been applied
+Sun Jan 19 16:39:10 2020 Info: Brightness has been set to 1
+Sun Jan 19 16:39:10 2020 Info: Brightness has been set to 29
+Sun Jan 19 16:39:10 2020 Info: Brightness has been set to 34
+Sun Jan 19 16:39:12 2020 Info: Brightness has been set to 35
+Sun Jan 19 16:39:12 2020 Info: Brightness has been set to -24
+Sun Jan 19 16:39:14 2020 Info: Contrast has been set to 103
+Sun Jan 19 16:39:15 2020 Info: Contrast has been set to 148
+Sun Jan 19 16:39:17 2020 Info: Contrast has been set to 145
+Sun Jan 19 16:39:17 2020 Info: Contrast has been set to 108
+Sun Jan 19 16:39:17 2020 Info: Contrast has been set to 98
+Sun Jan 19 16:39:18 2020 Info: Contrast has been set to 85
+Sun Jan 19 16:39:18 2020 Info: Contrast has been set to 48
+Sun Jan 19 16:39:18 2020 Info: Contrast has been set to 45
+Sun Jan 19 16:39:19 2020 Info: Contrast has been set to 50
+Sun Jan 19 16:39:19 2020 Info: Contrast has been set to 63
+Sun Jan 19 16:39:20 2020 Info: Contrast has been set to 65
+Sun Jan 19 16:39:20 2020 Info: Contrast has been set to 68
+Sun Jan 19 16:39:42 2020 Info: File has been saved
+Sun Jan 19 16:40:15 2020 Error: Camera is not available 
+Sun Jan 19 16:40:21 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:40:21 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:40:23 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:40:24 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:40:27 2020 Info: Brightness has been set to -21
+Sun Jan 19 16:40:27 2020 Info: Brightness has been set to -12
+Sun Jan 19 16:40:27 2020 Info: Brightness has been set to -7
+Sun Jan 19 16:40:29 2020 Info: Brightness has been set to -6
+Sun Jan 19 16:40:29 2020 Info: Brightness has been set to 13
+Sun Jan 19 16:40:31 2020 Info: Contrast has been set to 70
+Sun Jan 19 16:40:31 2020 Info: Contrast has been set to 110
+Sun Jan 19 16:40:32 2020 Info: Contrast has been set to 125
+Sun Jan 19 16:45:53 2020 Info: Canny Minimum has been set to 11
+Sun Jan 19 16:45:53 2020 Info: Canny Minimum has been set to 7
+Sun Jan 19 16:45:53 2020 Info: Canny Minimum has been set to 6
+Sun Jan 19 16:45:54 2020 Info: Canny Minimum has been set to 0
+Sun Jan 19 16:45:54 2020 Info: Canny Minimum has been set to 1
+Sun Jan 19 16:45:54 2020 Info: Canny Minimum has been set to 7
+Sun Jan 19 16:45:55 2020 Info: Canny Minimum has been set to 13
+Sun Jan 19 16:45:55 2020 Info: Canny Minimum has been set to 19
+Sun Jan 19 16:45:55 2020 Info: Canny Minimum has been set to 20
+Sun Jan 19 16:45:55 2020 Info: Canny Minimum has been set to 23
+Sun Jan 19 16:45:56 2020 Info: Canny Minimum has been set to 24
+Sun Jan 19 16:45:56 2020 Info: Canny Minimum has been set to 27
+Sun Jan 19 16:45:57 2020 Info: Canny Minimum has been set to 28
+Sun Jan 19 16:45:57 2020 Info: Canny Minimum has been set to 29
+Sun Jan 19 16:46:00 2020 Info: Canny Maximum has been set to 24
+Sun Jan 19 16:46:00 2020 Info: Canny Maximum has been set to 26
+Sun Jan 19 16:46:00 2020 Info: Canny Maximum has been set to 27
+Sun Jan 19 16:46:01 2020 Info: Canny Maximum has been set to 29
+Sun Jan 19 16:46:01 2020 Info: Canny Maximum has been set to 30
+Sun Jan 19 16:46:02 2020 Info: Canny Maximum has been set to 31
+Sun Jan 19 16:46:02 2020 Info: Canny Maximum has been set to 32
+Sun Jan 19 16:46:03 2020 Info: Canny Maximum has been set to 33
+Sun Jan 19 16:46:04 2020 Info: Canny Maximum has been set to 34
+Sun Jan 19 16:46:05 2020 Info: Canny Maximum has been set to 35
+Sun Jan 19 16:46:06 2020 Info: Canny Maximum has been set to 36
+Sun Jan 19 16:46:06 2020 Info: Canny Maximum has been set to 38
+Sun Jan 19 16:46:06 2020 Info: Canny Maximum has been set to 39
+Sun Jan 19 16:46:06 2020 Info: Canny Maximum has been set to 41
+Sun Jan 19 16:46:07 2020 Info: Canny Maximum has been set to 42
+Sun Jan 19 16:46:07 2020 Info: Canny Maximum has been set to 43
+Sun Jan 19 16:46:08 2020 Info: Canny Maximum has been set to 44
+Sun Jan 19 16:46:08 2020 Info: Canny Maximum has been set to 45
+Sun Jan 19 16:46:12 2020 Info: Canny Maximum has been set to 46
+Sun Jan 19 16:46:12 2020 Info: Canny Maximum has been set to 48
+Sun Jan 19 16:46:13 2020 Info: Canny Maximum has been set to 47
+Sun Jan 19 16:46:13 2020 Info: Canny Maximum has been set to 46
+Sun Jan 19 16:46:15 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:46:16 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:46:19 2020 Info: Contrast has been set to 135
+Sun Jan 19 16:46:19 2020 Info: Contrast has been set to 170
+Sun Jan 19 16:46:21 2020 Info: Contrast has been set to 180
+Sun Jan 19 16:46:21 2020 Info: Contrast has been set to 190
+Sun Jan 19 16:46:21 2020 Info: Contrast has been set to 200
+Sun Jan 19 16:46:22 2020 Info: Contrast has been set to 198
+Sun Jan 19 16:46:22 2020 Info: Contrast has been set to 170
+Sun Jan 19 16:46:22 2020 Info: Contrast has been set to 120
+Sun Jan 19 16:46:23 2020 Info: Contrast has been set to 75
+Sun Jan 19 16:46:23 2020 Info: Contrast has been set to 65
+Sun Jan 19 16:46:23 2020 Info: Contrast has been set to 58
+Sun Jan 19 16:46:24 2020 Info: Contrast has been set to 55
+Sun Jan 19 16:46:24 2020 Info: Contrast has been set to 133
+Sun Jan 19 16:46:24 2020 Info: Contrast has been set to 158
+Sun Jan 19 16:46:25 2020 Info: Contrast has been set to 155
+Sun Jan 19 16:46:25 2020 Info: Contrast has been set to 140
+Sun Jan 19 16:46:25 2020 Info: Contrast has been set to 123
+Sun Jan 19 16:46:26 2020 Info: Contrast has been set to 115
+Sun Jan 19 16:47:10 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:47:10 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:47:17 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:47:17 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:47:21 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:47:21 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:47:26 2020 Error: Camera is not available 
+Sun Jan 19 16:58:12 2020 Info: File has been loaded successfully 
+Sun Jan 19 16:58:12 2020 Info: File input mode had been enabled 
+Sun Jan 19 16:58:17 2020 Info: Grayscale conversion has been disabled 
+Sun Jan 19 16:58:18 2020 Info: Grayscale conversion has been enabled 
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -1
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -4
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -10
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -21
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -27
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -32
+Sun Jan 19 16:58:23 2020 Info: Brightness has been set to -42
+Sun Jan 19 16:58:24 2020 Info: Brightness has been set to -49
+Sun Jan 19 16:58:24 2020 Info: Brightness has been set to -46
+Sun Jan 19 16:58:24 2020 Info: Brightness has been set to -14
+Sun Jan 19 16:58:24 2020 Info: Brightness has been set to 14
+Sun Jan 19 16:58:24 2020 Info: Brightness has been set to 21
+Sun Jan 19 16:58:24 2020 Info: Brightness has been set to 23
+Sun Jan 19 16:58:26 2020 Info: Brightness has been set to 26
+Sun Jan 19 16:58:26 2020 Info: Brightness has been set to 30
+Sun Jan 19 16:58:26 2020 Info: Brightness has been set to 33
+Sun Jan 19 16:58:26 2020 Info: Brightness has been set to 35
+Sun Jan 19 16:58:26 2020 Info: Brightness has been set to 36
+Sun Jan 19 16:58:26 2020 Info: Brightness has been set to 38
+Sun Jan 19 16:58:27 2020 Info: Brightness has been set to 39
+Sun Jan 19 16:58:27 2020 Info: Brightness has been set to 36
+Sun Jan 19 16:58:27 2020 Info: Brightness has been set to 33
+Sun Jan 19 16:58:27 2020 Info: Brightness has been set to 18
+Sun Jan 19 16:58:28 2020 Info: Brightness has been set to -7
+Sun Jan 19 16:58:28 2020 Info: Brightness has been set to -26
+Sun Jan 19 16:58:28 2020 Info: Brightness has been set to -27
+Sun Jan 19 16:58:30 2020 Info: Contrast has been set to 105
+Sun Jan 19 16:58:30 2020 Info: Contrast has been set to 138
+Sun Jan 19 16:58:30 2020 Info: Contrast has been set to 148
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 150
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 148
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 135
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 125
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 123
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 113
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 108
+Sun Jan 19 16:58:31 2020 Info: Contrast has been set to 100
+Sun Jan 19 16:58:32 2020 Info: Contrast has been set to 103
+Sun Jan 19 16:58:32 2020 Info: Contrast has been set to 138
+Sun Jan 19 16:58:32 2020 Info: Contrast has been set to 163
+Sun Jan 19 16:58:32 2020 Info: Contrast has been set to 165
+Sun Jan 19 16:58:32 2020 Info: Contrast has been set to 170
+Sun Jan 19 16:58:32 2020 Info: Contrast has been set to 175
+Sun Jan 19 16:58:35 2020 Info: Contrast has been set to 190
+Sun Jan 19 16:58:35 2020 Info: Contrast has been set to 200
+Sun Jan 19 16:58:39 2020 Info: Contrast has been set to 198
+Sun Jan 19 16:58:39 2020 Info: Contrast has been set to 188
+Sun Jan 19 16:58:39 2020 Info: Contrast has been set to 185
+Sun Jan 19 16:58:39 2020 Info: Contrast has been set to 180
+Sun Jan 19 16:58:40 2020 Info: Contrast has been set to 173
+Sun Jan 19 16:58:40 2020 Info: Contrast has been set to 170
+Sun Jan 19 16:58:42 2020 Info: Brightness has been set to -31
+Sun Jan 19 16:58:42 2020 Info: Brightness has been set to -39
+Sun Jan 19 16:58:43 2020 Info: Brightness has been set to -40
+Sun Jan 19 16:58:43 2020 Info: Brightness has been set to -50
+Sun Jan 19 16:58:44 2020 Info: Brightness has been set to -47
+Sun Jan 19 16:58:44 2020 Info: Brightness has been set to -1
+Sun Jan 19 16:58:44 2020 Info: Brightness has been set to 21
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to 45
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to 50
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to 48
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to 16
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to 13
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to -5
+Sun Jan 19 16:58:45 2020 Info: Brightness has been set to -20
+Sun Jan 19 16:58:46 2020 Info: Brightness has been set to -22
+Sun Jan 19 16:58:46 2020 Info: Brightness has been set to -25
+Sun Jan 19 16:58:46 2020 Info: Brightness has been set to -26
+Sun Jan 19 16:58:46 2020 Info: Brightness has been set to -25
+Sun Jan 19 16:58:46 2020 Info: Brightness has been set to 49
+Sun Jan 19 16:58:46 2020 Info: Brightness has been set to 50
+Sun Jan 19 16:58:48 2020 Info: Brightness has been set to 48
+Sun Jan 19 16:58:48 2020 Info: Brightness has been set to 0
+Sun Jan 19 16:58:48 2020 Info: Brightness has been set to -20
+Sun Jan 19 16:58:48 2020 Info: Brightness has been set to -35
+Sun Jan 19 16:58:48 2020 Info: Brightness has been set to -39
+Sun Jan 19 16:58:49 2020 Info: Brightness has been set to -40
+Sun Jan 19 16:58:49 2020 Info: Brightness has been set to -36
+Sun Jan 19 16:58:49 2020 Info: Brightness has been set to -17
+Sun Jan 19 16:58:50 2020 Info: Brightness has been set to -11
+Sun Jan 19 16:58:50 2020 Info: Brightness has been set to 0
+Sun Jan 19 16:58:50 2020 Info: Brightness has been set to 18
+Sun Jan 19 16:58:51 2020 Info: Brightness has been set to 16
+Sun Jan 19 16:58:51 2020 Info: Brightness has been set to -5
+Sun Jan 19 16:58:51 2020 Info: Brightness has been set to -15
+Sun Jan 19 16:58:51 2020 Info: Brightness has been set to -22
+Sun Jan 19 16:58:51 2020 Info: Brightness has been set to -36
+Sun Jan 19 16:58:51 2020 Info: Brightness has been set to -40
+Sun Jan 19 16:58:52 2020 Info: Brightness has been set to -42
+Sun Jan 19 16:58:54 2020 Info: Grayscale conversion has been disabled 
+Fri Mar 3 20:48:33 2023 Info: File has been loaded successfully 
+Fri Mar 3 20:48:33 2023 Info: File input mode had been enabled 
+Mon Mar 6 12:13:40 2023 Info: File has been loaded successfully 
+Mon Mar 6 12:13:40 2023 Info: File input mode had been enabled 
+Mon Mar 6 12:14:27 2023 Info: File has been loaded successfully 
+Mon Mar 6 12:14:27 2023 Info: File input mode had been enabled 
+Mon Mar 6 12:14:39 2023 Info: File has been loaded successfully 
+Mon Mar 6 12:14:39 2023 Info: File input mode had been enabled 
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 104
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 129
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 134
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 136
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 141
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 144
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 146
+Mon Mar 6 12:14:52 2023 Info: Contrast has been set to 148
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 153
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 155
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 153
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 146
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 144
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 141
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 136
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 134
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 129
+Mon Mar 6 12:14:53 2023 Info: Contrast has been set to 127
+Mon Mar 6 12:14:54 2023 Info: Contrast has been set to 125
+Mon Mar 6 12:14:54 2023 Info: Contrast has been set to 122
+Mon Mar 6 12:14:54 2023 Info: Contrast has been set to 120
+Mon Mar 6 12:14:54 2023 Info: Contrast has been set to 122
+Mon Mar 6 12:14:54 2023 Info: Contrast has been set to 125
+Mon Mar 6 12:14:54 2023 Info: Contrast has been set to 127
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 1
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 3
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 4
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 5
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 8
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 9
+Mon Mar 6 12:14:55 2023 Info: Brightness has been set to 12
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 14
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 17
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 18
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 21
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 22
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 26
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 29
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 30
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 34
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 35
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 36
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 35
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 31
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 30
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 29
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 28
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 26
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 25
+Mon Mar 6 12:14:56 2023 Info: Brightness has been set to 23
+Mon Mar 6 12:14:57 2023 Info: Grayscale conversion has been disabled 
+Mon Mar 6 12:14:58 2023 Info: Grayscale conversion has been enabled 
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 125
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 120
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 115
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 113
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 111
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 108
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 104
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 101
+Mon Mar 6 12:15:01 2023 Info: Contrast has been set to 99
+Mon Mar 6 12:15:02 2023 Info: Contrast has been set to 94
+Mon Mar 6 12:15:02 2023 Info: Contrast has been set to 92
+Mon Mar 6 12:15:04 2023 Info: Sobel Has been applied
+Mon Mar 6 12:15:10 2023 Info: Canny Has been applied
+Mon Mar 6 12:15:13 2023 Info: Prewitt Has been applied
+Mon Mar 6 12:15:15 2023 Info: Laplacian Has been applied
+Mon Mar 6 12:15:22 2023 Info: Scale value has been changed to 2
+Mon Mar 6 12:15:22 2023 Info: Scale value has been changed to 3
+Mon Mar 6 12:15:23 2023 Info: Scale value has been changed to 4
+Mon Mar 6 12:15:25 2023 Info: Delta value has been changed to 1
+Mon Mar 6 12:15:26 2023 Info: Delta value has been changed to 2
+Mon Mar 6 12:15:26 2023 Info: Delta value has been changed to 3
+Mon Mar 6 12:15:27 2023 Info: Kernel value has been changed to 5
+Mon Mar 6 12:15:29 2023 Info: Kernel value has been changed to 3
+Mon Mar 6 12:15:30 2023 Info: Grayscale conversion has been disabled 
+Mon Mar 6 12:15:31 2023 Info: Grayscale conversion has been enabled 
+Mon Mar 6 12:15:31 2023 Info: Grayscale conversion has been disabled 
+Mon Mar 6 12:15:33 2023 Info: Grayscale conversion has been enabled 
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 21
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 19
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 17
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 12
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 9
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 5
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 2
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to 1
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -3
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -4
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -5
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -8
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -10
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -12
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -14
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -15
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -16
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -17
+Mon Mar 6 12:15:34 2023 Info: Brightness has been set to -18
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -21
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -23
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -24
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -25
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -26
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -29
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -30
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -31
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -34
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -35
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -37
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -39
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -41
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -42
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -43
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -46
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -48
+Mon Mar 6 12:15:35 2023 Info: Brightness has been set to -50
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 94
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 99
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 108
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 115
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 120
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 127
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 129
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 132
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 136
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 139
+Mon Mar 6 12:15:36 2023 Info: Contrast has been set to 144
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 146
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 148
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 151
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 155
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 160
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 165
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 169
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 172
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 176
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 179
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 181
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 172
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 167
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 165
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 155
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 146
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 139
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 136
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 132
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 129
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 127
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 125
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 120
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 118
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 115
+Mon Mar 6 12:15:37 2023 Info: Contrast has been set to 113
+Mon Mar 6 12:15:40 2023 Error: Camera is not available 
+Mon Mar 6 12:15:53 2023 Error: Camera is not available 
+Mon Mar 6 12:16:05 2023 Error: Camera is not available 
+Mon Mar 6 12:16:14 2023 Info: File has been loaded successfully 
+Mon Mar 6 12:16:14 2023 Info: File input mode had been enabled 
