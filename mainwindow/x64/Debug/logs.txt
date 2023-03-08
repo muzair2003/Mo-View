@@ -1,0 +1,4 @@
+Sun Jan 19 14:40:21 2020 Info: Camera has been enabled 
+Sun Jan 19 14:40:25 2020 Info: File has been loaded successfully 
+Sun Jan 19 14:40:26 2020 Info: File input mode had been enabled 
+Sun Jan 19 14:40:29 2020 Info: Sobel Has been applied
