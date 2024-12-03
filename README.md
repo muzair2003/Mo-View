@@ -2,7 +2,7 @@
 
 This is a image processor named Mo-View.
 
-[![Watch the Demo](https://youtu.be/cjYlCcGSTYQ)
+[![Watch the video](https://user-images.githubusercontent.com/60098918/226923516-172fd9e9-cd3a-4e27-a35a-1696808435a6.png)](https://youtu.be/cjYlCcGSTYQ)
 
 This was made using C++, QT-Creator, and OpenCV.
 
